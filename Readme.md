@@ -2,7 +2,7 @@
 Data, code, and images for 2023 "White matter integrity and navigational performance". 
 **Images are displayed on the main page but may take a few minutes to load**
 
-# Male Vs Female QA
+# Quantitative Anisotropy
 The difference between male and female QA for the DSI Studio Connectometry analysis. 
 
 ## Opposite direction correlations identified in females
