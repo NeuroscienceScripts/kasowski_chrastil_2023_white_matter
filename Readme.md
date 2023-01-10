@@ -1,4 +1,4 @@
-# kasowski_chrastil_2023_white_matter
+# White matter integrity of the human limbic system corresponds to spatial navigation performance
 Data, code, and images for 2023 "White matter integrity and navigational performance". 
 **Images are displayed on the main page but may take a few minutes to load**
 
