@@ -19,34 +19,37 @@ These tracts are correlated with performance in a way that suggests higher level
 
 
 ### Both Sexes
-
+![MD_Both](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegMD.gif)
 
 ### Males
-
+![MD_Males](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/MaleNegMD.gif)
 
 ### Females
+![MD_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemaleNegMD.gif)
 
 ## Axonal Diffusivity (Positive Correlations)
 
 
 ### Both Sexes
-
+![AD_Both](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/PosAD.gif)
 
 ### Males
-
+![AD_Males](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/MalePosAD.gif)
 
 ### Females
+![AD_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosAD.gif)
 
 ## Radial Diffusivity (Negative Correlations)
 
 
 ### Both Sexes
-
+![RD_Both](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegRD.gif)
 
 ### Males
-
+![RD_Males](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/MaleNegRD.gif)
 
 ### Females
+![RD_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemaleNegRD.gif)
 
 
 # Opposite direction correlations
