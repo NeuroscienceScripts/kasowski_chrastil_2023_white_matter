@@ -9,7 +9,8 @@ Data, code, and images for 2023 article of the same name
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
 
-## Quantitative Anisotropy (Positive Correlations)
+## Quantitative Anisotropy 
+(Positive Correlations)
 ### Both Sexes
 ![QA_Both](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/PosQA.gif)
 
