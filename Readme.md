@@ -4,7 +4,7 @@ Data, code, and images for 2023 article of the same name
 
 [Expected Correlations](#expected-correlations)
 
-[Quantitative Anisotropy](#quantitative-anisotropy)
+[Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](mean-diffusivity) | [Axonal Diffusivity](axonal-diffusivity) | [Radial Diffusivity](radial-diffusivity)
 
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
@@ -20,7 +20,8 @@ These tracts are correlated with performance in a way that suggests higher level
 ### Females
 ![QA_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosQA.gif)
 
-## Mean Diffusivity (Negative Correlations)
+## Mean Diffusivity
+(Negative Correlations)
 
 
 ### Both Sexes
@@ -32,7 +33,8 @@ These tracts are correlated with performance in a way that suggests higher level
 ### Females
 ![MD_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemaleNegMD.gif)
 
-## Axonal Diffusivity (Positive Correlations)
+## Axonal Diffusivity
+(Positive Correlations)
 
 
 ### Both Sexes
@@ -44,7 +46,8 @@ These tracts are correlated with performance in a way that suggests higher level
 ### Females
 ![AD_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosAD.gif)
 
-## Radial Diffusivity (Negative Correlations)
+## Radial Diffusivity
+(Negative Correlations)
 
 
 ### Both Sexes
