@@ -1,4 +1,4 @@
-# White Matter Integrity of the Human Limbmic System Corresponds to Spatial Navigation Performance
+# White Matter Integrity of the Human Limbic System Corresponds to Spatial Navigation Performance
 Data, code, and images for 2023 article of the same name  
 **Images are displayed on the main page but may take a few seconds to load. If images don't load, try scrolling down on the page**
 
