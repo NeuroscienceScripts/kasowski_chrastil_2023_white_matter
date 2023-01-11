@@ -4,7 +4,7 @@ Data, code, and images for 2023 article of the same name
 
 [Expected Correlations](#expected-correlations)
 
-[Quantitative Anisotropy](#quantitative-anisotropy-(positive-correlations))
+[Quantitative Anisotropy](#quantitative-anisotropy)
 
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
