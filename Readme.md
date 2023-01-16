@@ -89,7 +89,7 @@ Positive correlations with mean diffusivity were identified in the combined sex 
 ### Females
 Positive MD correlations were also identified in the female cohort
 
-![FemalePosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter)
+![FemalePosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosMD.gif)
 
 ## Unexpected Axonal Diffusivity 
 
