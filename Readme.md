@@ -9,8 +9,10 @@ Sped up sample of a trial in the experiment. Original speed can be accessed at [
 # Page Navigation
 
 [Preprocessing](#preprocessing)
+#
 
 [Tract-based Spatial Statistics](#tract-based-spatial-statistics)
+#
 
 [DSI Studio Connectometry, Expected Correlations](#dsi-studio-connectometry-expected-correlations)
 
