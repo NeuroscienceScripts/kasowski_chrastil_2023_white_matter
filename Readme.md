@@ -69,7 +69,7 @@ These tracts are correlated with performance in a way that suggests higher level
 ![RD_Females](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemaleNegRD.gif)
 
 
-# Opposite direction correlations
+# Unexpected correlations
 
 ## Unexpected Quantitative Anisotropy
 
