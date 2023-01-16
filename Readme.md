@@ -24,10 +24,10 @@ Sped up sample of a trial in the experiment. Original speed can be accessed at [
 [Unexpected Quantitative Anisotropy](#unexpected-quantitative-anisotropy) | [Unexpected Mean Diffusivity](#unexpected-mean-diffusivity) | [Unexpected Axonal Diffusivity](#unexpected-axonal-diffusivity) | [Unexpected Radial Diffusivity](#unexpected-radial-diffusivity)
 
 ## Preprocessing
-A video tutorial is available at [https://www.youtube.com/watch?v=thgehrS7k5I](https://www.youtube.com/watch?v=thgehrS7k5I) and all code is provided in the [HeuDiConv folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/heudiconv), the [QSIprep folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/QSIprep) and the [TBSS folder]()
+A video tutorial is available at [https://www.youtube.com/watch?v=thgehrS7k5I](https://www.youtube.com/watch?v=thgehrS7k5I) and all code is provided in the [HeuDiConv folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/heudiconv), the [QSIprep folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/QSIprep) and the [TBSS folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/TBSS/Code)
 
 ## Tract-based Spatial Statistics
-Code for TBSS analysis is available as a Google Colab notebook [(https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs)](https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs) and preprocessed diffusion data is available in the [TBSS folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/TBSS/Code)
+Code for TBSS analysis is available as a Google Colab notebook [(https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs)](https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs) and preprocessed diffusion data is available in the [TBSS folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/TBSS)
 
 #
 # DSI Studio Connectometry Expected Correlations
