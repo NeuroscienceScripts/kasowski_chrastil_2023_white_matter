@@ -9,15 +9,12 @@ Sped up sample of a trial in the experiment. Original speed can be accessed at [
 # Page Navigation
 [Expected Correlations](#expected-correlations)
 
-[Quantitative Anisotropy](#quantitative-anisotropy)
-[Mean Diffusivity](mean-diffusivity)
-[Axonal Diffusivity](axonal-diffusivity)
-[Radial Diffusivity](radial-diffusivity)
+[Quantitative Anisotropy](#quantitative-anisotropy) * [Mean Diffusivity](#mean-diffusivity) * [Axonal Diffusivity](#axonal-diffusivity) * [Radial Diffusivity](#radial-diffusivity)
 
 #
 [Unexpected Correlations](#unexpected-correlations)
 
-[Unexpected Quantitative Anisotropy](#unexpected-quantitative-anisotropy) | [Unexpected Mean Diffusivity](unexpected-mean-diffusivity) | [Unexpected Axonal Diffusivity](unexpected-axonal-diffusivity) | [Unexpected Radial Diffusivity](unexpected-radial-diffusivity)
+[Unexpected Quantitative Anisotropy](#unexpected-quantitative-anisotropy) | [Unexpected Mean Diffusivity](#unexpected-mean-diffusivity) | [Unexpected Axonal Diffusivity](#unexpected-axonal-diffusivity) | [Unexpected Radial Diffusivity](#unexpected-radial-diffusivity)
 #
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
