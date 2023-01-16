@@ -6,6 +6,9 @@ Data, code, and images for 2023 article of the same name
 
 [Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](mean-diffusivity) | [Axonal Diffusivity](axonal-diffusivity) | [Radial Diffusivity](radial-diffusivity)
 
+[Unexpected Correlations](#unexpected-correlations)
+[Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](mean-diffusivity) | [Axonal Diffusivity](axonal-diffusivity) | [Radial Diffusivity](radial-diffusivity)
+
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
 
@@ -65,7 +68,9 @@ These tracts are correlated with performance in a way that suggests higher level
 ## Quantitative Anisotropy
 
 ### Both Sexes
-Negative QA correlations were identified 
+Negative QA correlations were identified for the combined sexes, but this is likely due to negative correlations in the female cohort.  Negative QA correlations for combined sexes are shown in yellow, while negative QA correlations for females are overlayed in blue. 
+
+[NegQA](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegQA.gif)
 
 ### Females
 Positive correlations identified in males (the expected direction for higher performance) are shown in red for reference.
@@ -75,9 +80,9 @@ Negative correlations (opposite of what would be expected with higher connectivi
 
 ## Mean Diffusivity 
 
-### Both Sexes
-
-### Males
+### Both Sexes/Males
+Positive correlations with mean diffusivity were identified in the combined sex analysis, and are very similar to positive MD correlations identified in the male cohort.  Positive MD correlations for both sexes are shown in red, and positive MD correlations for males are overlayed in yellow
+[PosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/PosMD.gif)
 
 ### Females
 
