@@ -1,15 +1,15 @@
 # White Matter Integrity of the Human Limbic System Corresponds to Spatial Navigation Performance
 Data, code, and images for 2023 article of the same name  
 **Images are displayed on the main page but may take a few seconds to load. If images don't load, try scrolling down on the page**
-
+#
 [Expected Correlations](#expected-correlations)
 
 [Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](mean-diffusivity) | [Axonal Diffusivity](axonal-diffusivity) | [Radial Diffusivity](radial-diffusivity)
-
+#
 [Unexpected Correlations](#unexpected-correlations)
 
 [Unexpected Quantitative Anisotropy](#unexpected-quantitative-anisotropy) | [Unexpected Mean Diffusivity](unexpected-mean-diffusivity) | [Unexpected Axonal Diffusivity](unexpected-axonal-diffusivity) | [Unexpected Radial Diffusivity](unexpected-radial-diffusivity)
-
+#
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
 
@@ -93,10 +93,10 @@ Positive correlations with mean diffusivity were identified in the combined sex 
 ### Both Sexes
 
 Neither males or females displayed negative AD correlations, but negative correlations were identified when the combined sexes were analyzed.
-[NegAD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegAD.gif)
+![NegAD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegAD.gif)
 
 ## Unexpected Radial Diffusivity 
 
 ### Females
 No positive RD correlations were found for the combined sexes or males, however a few cerebellar tracts have positive correlations between RD and performance for females
-[FemalePosRD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosRD.gif)
+![FemalePosRD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosRD.gif)
