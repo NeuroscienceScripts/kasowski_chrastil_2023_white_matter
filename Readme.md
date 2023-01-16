@@ -70,7 +70,7 @@ These tracts are correlated with performance in a way that suggests higher level
 ### Both Sexes
 Negative QA correlations were identified for the combined sexes, but this is likely due to negative correlations in the female cohort.  Negative QA correlations for combined sexes are shown in yellow, while negative QA correlations for females are overlayed in blue. 
 
-[NegQA](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegQA.gif)
+![NegQA](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegQA.gif)
 
 ### Females
 Positive correlations identified in males (the expected direction for higher performance) are shown in red for reference.
@@ -82,22 +82,20 @@ Negative correlations (opposite of what would be expected with higher connectivi
 
 ### Both Sexes/Males
 Positive correlations with mean diffusivity were identified in the combined sex analysis, and are very similar to positive MD correlations identified in the male cohort.  Positive MD correlations for both sexes are shown in red, and positive MD correlations for males are overlayed in yellow
-[PosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/PosMD.gif)
+![PosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/PosMD.gif)
 
 ### Females
+![FemalePosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter)
 
 ## Axonal Diffusivity 
 
 ### Both Sexes
 
-### Males
-
-### Females
+Neither males or females displayed negative AD correlations, but negative correlations were identified when the combined sexes were analyzed.
+[NegAD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegAD.gif)
 
 ## Radial Diffusivity 
 
-### Both Sexes
-
-### Males
-
 ### Females
+No positive RD correlations were found for the combined sexes or males, however a few cerebellar tracts have positive correlations between RD and performance for females
+[FemalePosRD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosRD.gif)
