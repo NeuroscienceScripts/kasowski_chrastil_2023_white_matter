@@ -83,9 +83,12 @@ Negative correlations (opposite of what would be expected with higher connectivi
 
 ### Both Sexes/Males
 Positive correlations with mean diffusivity were identified in the combined sex analysis, and are very similar to positive MD correlations identified in the male cohort.  Positive MD correlations for both sexes are shown in red, and positive MD correlations for males are overlayed in yellow
+
 ![PosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/PosMD.gif)
 
 ### Females
+Positive MD correlations were also identified in the female cohort
+
 ![FemalePosMD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter)
 
 ## Unexpected Axonal Diffusivity 
@@ -93,10 +96,12 @@ Positive correlations with mean diffusivity were identified in the combined sex 
 ### Both Sexes
 
 Neither males or females displayed negative AD correlations, but negative correlations were identified when the combined sexes were analyzed.
+
 ![NegAD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/NegAD.gif)
 
 ## Unexpected Radial Diffusivity 
 
 ### Females
 No positive RD correlations were found for the combined sexes or males, however a few cerebellar tracts have positive correlations between RD and performance for females
+
 ![FemalePosRD](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/FemalePosRD.gif)
