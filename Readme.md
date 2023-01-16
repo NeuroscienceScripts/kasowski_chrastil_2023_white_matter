@@ -4,8 +4,9 @@ Data, code, and images for 2023 article of the same name
 
 Sped up sample of a trial in the experiment. Original speed can be accessed at ([https://www.youtube.com/watch?v=LMsGpo2Ss7M](https://www.youtube.com/watch?v=LMsGpo2Ss7M)
 
-![trialClip](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/experiment.gif)
-#
+![trialClip](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/experiment.gif))
+
+# Page Navigation
 [Expected Correlations](#expected-correlations)
 
 [Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](mean-diffusivity) | [Axonal Diffusivity](axonal-diffusivity) | [Radial Diffusivity](radial-diffusivity)
