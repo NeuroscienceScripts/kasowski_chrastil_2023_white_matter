@@ -12,13 +12,12 @@ Sped up sample of a trial in the experiment. Original speed can be accessed at [
 
 [Tract-based Spatial Statistics](#tract-based-spatial-statistics)
 
-## DSI Studio
-[Expected Correlations](#expected-correlations)
+[DSI Studio Connectometry, Expected Correlations](#dsi-studio-connectometry-expected-correlations)
 
 [Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](#mean-diffusivity) | [Axonal Diffusivity](#axonal-diffusivity) | [Radial Diffusivity](#radial-diffusivity)
 
 #
-[Unexpected Correlations](#unexpected-correlations)
+[DSI Studio Connectometry, Unexpected Correlations](#unexpected-correlations)
 
 [Unexpected Quantitative Anisotropy](#unexpected-quantitative-anisotropy) | [Unexpected Mean Diffusivity](#unexpected-mean-diffusivity) | [Unexpected Axonal Diffusivity](#unexpected-axonal-diffusivity) | [Unexpected Radial Diffusivity](#unexpected-radial-diffusivity)
 
@@ -29,7 +28,7 @@ A video tutorial is available at [https://www.youtube.com/watch?v=thgehrS7k5I](h
 Code for TBSS analysis is available as a Google Colab notebook [(https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs)](https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs) and preprocessed diffusion data is available in the [TBSS folder](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/tree/main/TBSS/Code)
 
 #
-# Expected Correlations
+# DSI Studio Connectometry Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
 
 ## Quantitative Anisotropy 
