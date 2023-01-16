@@ -1,6 +1,10 @@
 # White Matter Integrity of the Human Limbic System Corresponds to Spatial Navigation Performance
 Data, code, and images for 2023 article of the same name  
 **Images are displayed on the main page but may take a few seconds to load. If images don't load, try scrolling down on the page**
+
+Sped up sample of a trial in the experiment. Original speed can be accessed at ([https://www.youtube.com/watch?v=LMsGpo2Ss7M](https://www.youtube.com/watch?v=LMsGpo2Ss7M)
+
+![trialClip](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/experiment.gif)
 #
 [Expected Correlations](#expected-correlations)
 
