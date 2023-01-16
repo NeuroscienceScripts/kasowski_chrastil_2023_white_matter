@@ -7,6 +7,7 @@ Sped up sample of a trial in the experiment. Original speed can be accessed at [
 ![trialClip](https://github.com/NeuroscienceScripts/kasowski_chrastil_2023_white_matter/blob/main/Images/experiment.gif)
 
 # Page Navigation
+## DSI Studio
 [Expected Correlations](#expected-correlations)
 
 [Quantitative Anisotropy](#quantitative-anisotropy) | [Mean Diffusivity](#mean-diffusivity) | [Axonal Diffusivity](#axonal-diffusivity) | [Radial Diffusivity](#radial-diffusivity)
@@ -15,6 +16,10 @@ Sped up sample of a trial in the experiment. Original speed can be accessed at [
 [Unexpected Correlations](#unexpected-correlations)
 
 [Unexpected Quantitative Anisotropy](#unexpected-quantitative-anisotropy) | [Unexpected Mean Diffusivity](#unexpected-mean-diffusivity) | [Unexpected Axonal Diffusivity](#unexpected-axonal-diffusivity) | [Unexpected Radial Diffusivity](#unexpected-radial-diffusivity)
+
+## Tract-based Spatial Statistics
+Code for TBSS analysis is available as a Google Colab notebook [(https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs)](https://colab.research.google.com/drive/1DhT-efVw36CUUAQEyhMwPluZAFvQnmA5#scrollTo=CWXBk9kZ2PIs)
+
 #
 # Expected Correlations
 These tracts are correlated with performance in a way that suggests higher level of connectivity  (positive AD/QA, negative MD/RD) 
